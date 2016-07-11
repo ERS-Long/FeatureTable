@@ -25,7 +25,9 @@ Put the wiget code to folder \widgets
 This widget utilizes @tmcgee attributesTabContainer as the place holder, then applies dojo topic to add/remove the Feature Table tab to the attributesTabContainer.
 
 Have to add this line to format the dgrid in te feature table, othewise it will not use entire pane width
+            
             domStyle.set("myTableNode_grid", "width", "100%");
+            
 
 ![alt tag](/FeatureTable.png)
 
