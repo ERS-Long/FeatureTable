@@ -19,6 +19,6 @@ CMV Config Settings
                 }
             },                      
 
-![alt tag](/FeatureTable.PNG)
+![alt tag](/FeatureTable.png)
 
 
